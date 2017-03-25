@@ -1,2 +1,2 @@
-# SpringBootHibernate
-Spring Boot with Hibernate Oracle DB POC
+# Spring Boot Hibernate Oracle DB
+Spring Boot with Hibernate Oracle DB Example
